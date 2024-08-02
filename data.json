@@ -1,100 +1,299 @@
 {
   "grammar": [
     {
-      "name": "いらっしゃいます"
+      "name": "いらっしゃいます",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "N(名前)＋と申します"
+      "name": "N(名前)＋と申します",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "参ります"
+      "name": "参ります",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "普通形＋ので、＿＿＿"
+      "name": "普通形＋ので、＿＿＿",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "可能動詞"
+      "name": "可能動詞",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "N＋なら＿＿＿"
+      "name": "N＋なら＿＿＿",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "辞書形＋のが＋A"
+      "name": "辞書形＋のが＋A",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "辞書形＋のは＋A"
+      "name": "辞書形＋のは＋A",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "可能形＋ようになります"
+      "name": "可能形＋ようになります",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "A＋そうです"
+      "name": "A＋そうです",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "テ形＋みます"
+      "name": "テ形＋みます",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "テ形＋もらえませんか"
+      "name": "テ形＋もらえませんか",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "A＋すぎます"
+      "name": "A＋すぎます",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "マス形＋すぎます"
+      "name": "マス形＋すぎます",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "マス形＋やすいです"
+      "name": "マス形＋やすいです",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "マス形＋にくいです"
+      "name": "マス形＋にくいです",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "テ形＋あります"
+      "name": "テ形＋あります",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "何と読みますかー「」と読みます"
+      "name": "何と読みますかー「」と読みます",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "「」と書いてあります"
+      "name": "「」と書いてあります",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "どういう意味ですかー普通形＋という意味です"
+      "name": "どういう意味ですかー普通形＋という意味です",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "N＋にします"
+      "name": "N＋にします",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "マス形＋すぎです"
+      "name": "マス形＋すぎです",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "タ形＋ら、＿＿＿"
+      "name": "タ形＋ら、＿＿＿",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "意向形＋と思っています"
+      "name": "意向形＋と思っています",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "辞書形＋つもりです"
+      "name": "辞書形＋つもりです",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "ナイ形＋つもりです"
+      "name": "ナイ形＋つもりです",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "疑問詞＋普通形＋か、＿＿＿"
+      "name": "疑問詞＋普通形＋か、＿＿＿",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "普通形＋かどうか、＿＿＿"
+      "name": "普通形＋かどうか、＿＿＿",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "N＋のために、＿＿＿"
+      "name": "N＋のために、＿＿＿",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "辞書けい＋ために、＿＿＿"
+      "name": "辞書形＋ために、＿＿＿",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "普通形＋んです"
+      "name": "普通形＋んです",
+      "level": "N4",
+      "example": ""
     },
     {
-      "name": "ナイ形＋ければなりません"
+      "name": "ナイ形＋ければなりません",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "普通形＋んですが、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "普通形＋なら、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "タ形＋らしいです",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "辞書形＋といいです",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "N＋までに＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "辞書形＋と、N＋があります",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "N＋じゃなくて、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "辞書形+んじゃなくて、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "A＋なら、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "N＋なら、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "テ形＋しまいました",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "普通形＋かもしれません",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "N＋のあとで、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "タ形＋あとで、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "テ形＋いただけませんか",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "A＋(くて|で)、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "テ形、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "ナイ形＋くて、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "タ形＋ら、＿＿＿タ形",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "マス形＋ましょうか",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "普通形＋し、＿＿＿",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "普通形＋のは＋N＋です",
+      "level": "N4",
+      "example": ""
+    },
+    {
+      "name": "A＋そうです",
+      "level": "",
+      "example": ""
+    },
+    {
+      "name": "マス形(-ます)＋そうです",
+      "level": "",
+      "example": ""
+    },
+    {
+      "name": "マス形(-ます)＋そう(に|も|にも)ありません",
+      "level": "",
+      "example": ""
+    },
+    {
+      "name": "テ形＋おきます",
+      "level": "",
+      "example": ""
+    },
+    {
+      "name": "テ形＋あります",
+      "level": "",
+      "example": ""
     }
   ],
   "topics": [
@@ -106,6 +305,15 @@
     },
     {
       "name": "自分の目標や計画を話したり進路の参考のために周りの人から話を聞いたりすることができる"
+    },
+    {
+      "name": "日本の生活を楽しむために住んでいる町の情報を教え合って、その情報を元に行動することができる"
+    },
+    {
+      "name": "突然のハプニングにあった時、簡単なことなら事情を説明して、対処することができる"
+    },
+    {
+      "name": "旅行に行くために事前に情報を収集したり相談したりして、旅行に行く前の準備がきる"
     }
   ],
   "styles": [
