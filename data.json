@@ -18,38 +18,38 @@
       "name": "N(名前)＋と申します",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "謙譲語",
+        "挨拶"
       ],
-      "notes": "",
+      "notes": "introducing your name",
       "example": [
-        ""
+        "初めまして、タホと申します"
       ],
       "gid": "n4-000002"
     },
     {
-      "name": "参ります",
-      "level": "N4",
-      "tags": [
-        "example 1",
-        "example 2"
-      ],
-      "notes": "",
-      "example": [
-        ""
-      ],
-      "gid": "n4-000003"
+        "name": "参ります",
+        "level": "N4",
+        "tags": [
+            "謙譲語"
+        ],
+        "notes": "replacement for 行く, and 来る",
+        "example": [
+            "今年の３月に参りました",
+            "今年の１０月に大阪へ参ります"
+        ],
+        "gid": "n4-000003"
     },
     {
       "name": "普通形＋ので、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "cause-and-effect"
       ],
-      "notes": "",
+      "notes": "basic cause and effect",
       "example": [
-        ""
+        "札幌には夢がたくさんあるのでスキーをしたいです",
+        "私の犬の種類は「ヒーラー」なので、私はいつも疲れます"
       ],
       "gid": "n4-000004"
     },
@@ -57,12 +57,13 @@
       "name": "可能動詞",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "可能形"
       ],
-      "notes": "",
+      "notes": "「え」る, られる, できる -- basic potential form",
       "example": [
-        ""
+        "私の犬はずっと遊べる",
+        "わたしはプログラミングことができる",
+        "私は朝早く起きられない"
       ],
       "gid": "n4-000005"
     },
@@ -70,12 +71,13 @@
       "name": "N＋なら＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "conditions"
       ],
-      "notes": "",
+      "notes": "if it's this...",
       "example": [
-        ""
+        "中国の料理は辛物なら食べられない",
+        "雨なら、傘を持ってきてください",
+        "パソコンなら、マックブックを買うといいです"
       ],
       "gid": "n4-000006"
     },
@@ -83,12 +85,13 @@
       "name": "辞書形＋のが＋A",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "nominalizing"
       ],
-      "notes": "",
+      "notes": "specifically describing an action turned into a noun",
       "example": [
-        ""
+        "アニメを見るのが好きです",
+        "スキーをするのが上手です",
+        "長い時間に寝るのが嫌いです"
       ],
       "gid": "n4-000007"
     },
@@ -96,12 +99,12 @@
       "name": "辞書形＋のは＋A",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "nominalizing"
       ],
-      "notes": "",
+      "notes": "basic describing an action turned into a noun",
       "example": [
-        ""
+        "ゲームをするのは楽しいです",
+        "値段が安いのは、トヨタの車です"
       ],
       "gid": "n4-000008"
     },
@@ -109,12 +112,13 @@
       "name": "可能形＋ようになります",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "可能形",
+        "becoming"
       ],
-      "notes": "",
+      "notes": "an action becoming possible",
       "example": [
-        ""
+        "2026までに日本語が話せるようになりたいです",
+        "簡単料理が作れるようになりました"
       ],
       "gid": "n4-000009"
     },
@@ -122,12 +126,13 @@
       "name": "A＋そうです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "seems"
       ],
-      "notes": "",
+      "notes": "how something seems based on your senses",
       "example": [
-        ""
+        "そのゲームは面白そうです",
+        "そのホテルは安くなさそうです",
+        "私のルームメイトは静かじゃなさそうです"
       ],
       "gid": "n4-000010"
     },
@@ -135,12 +140,12 @@
       "name": "テ形＋みます",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "combo"
       ],
-      "notes": "",
+      "notes": "try something",
       "example": [
-        ""
+        "あの山を登ってみます",
+        "この上着を着てみたいです"
       ],
       "gid": "n4-000011"
     },
@@ -148,12 +153,13 @@
       "name": "テ形＋もらえませんか",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "丁寧語",
+        "receiving-and-giving"
       ],
-      "notes": "",
+      "notes": "receiving a favor",
       "example": [
-        ""
+        "光を消えてもらえませんか",
+        "結婚式の写真を見せてもらえませんか"
       ],
       "gid": "n4-000012"
     },
@@ -161,12 +167,11 @@
       "name": "A＋すぎます",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "combo"
       ],
-      "notes": "",
+      "notes": "describing something as too much",
       "example": [
-        ""
+        "ボストンには私のアパートが高すぎました"
       ],
       "gid": "n4-000013"
     },
@@ -174,12 +179,11 @@
       "name": "マス形＋すぎます",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "combo"
       ],
-      "notes": "",
+      "notes": "something you did too much of",
       "example": [
-        ""
+        "私は食べすぎました"
       ],
       "gid": "n4-000014"
     },
@@ -187,12 +191,11 @@
       "name": "マス形＋やすいです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "combo"
       ],
-      "notes": "",
+      "notes": "describing something as too easy",
       "example": [
-        ""
+        "この小説は読みやすいです"
       ],
       "gid": "n4-000015"
     },
@@ -200,12 +203,11 @@
       "name": "マス形＋にくいです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "combo"
       ],
-      "notes": "",
+      "notes": "describing something as too hard",
       "example": [
-        ""
+        "日本語の宿題が多いですから、プログラミングをしにくいです"
       ],
       "gid": "n4-000016"
     },
@@ -213,12 +215,11 @@
       "name": "テ形＋あります",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "combo"
       ],
-      "notes": "",
+      "notes": "after an action was done and left by someone",
       "example": [
-        ""
+        "駅の近くに地図が貼ってあります"
       ],
       "gid": "n4-000017"
     },
@@ -226,12 +227,12 @@
       "name": "何と読みますかー「」と読みます",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "疑問形"
       ],
-      "notes": "",
+      "notes": "asking/describing how to read something",
       "example": [
-        ""
+        "これは何と読みますか",
+        "「」と読みますよ"
       ],
       "gid": "n4-000018"
     },
@@ -239,12 +240,12 @@
       "name": "「」と書いてあります",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "疑問形",
+        "combo"
       ],
-      "notes": "",
+      "notes": "after a writing action was done and left by someone",
       "example": [
-        ""
+        "「」と書いてあります"
       ],
       "gid": "n4-000019"
     },
@@ -252,12 +253,13 @@
       "name": "どういう意味ですかー普通形＋という意味です",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "疑問形"
       ],
-      "notes": "",
+      "notes": "asking/describing the meaning of a word",
       "example": [
-        ""
+        "「」はどういう意味ですか",
+        "「」と言う意味です",
+        "。。。だと言う意味です"
       ],
       "gid": "n4-000020"
     },
@@ -265,12 +267,12 @@
       "name": "N＋にします",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "condition"
       ],
-      "notes": "",
+      "notes": "ordering/choosing a specific thing",
       "example": [
-        ""
+        "からあげのセットにします",
+        "このレストランにしましょう"
       ],
       "gid": "n4-000021"
     },
@@ -278,12 +280,11 @@
       "name": "マス形＋すぎです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "combo"
       ],
-      "notes": "",
+      "notes": "pointing out something someone else did too much",
       "example": [
-        ""
+        "ソダさん、飲みすぎですよ"
       ],
       "gid": "n4-000022"
     },
@@ -291,12 +292,15 @@
       "name": "タ形＋ら、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "condition"
       ],
-      "notes": "",
+      "notes": "once this happens, ...",
       "example": [
-        ""
+        "日本語学校を卒業したら、日本の会社で働きたいです",
+        "夏休みになったら、新しい本を読む",
+        "コンサートに行ったら、人がたくさん並んでいました",
+        "区役所へ行ったら、誰もいませんでした",
+        "今週末電話したらどうですか"
       ],
       "gid": "n4-000023"
     },
@@ -304,12 +308,12 @@
       "name": "意向形＋と思っています",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "probability",
+        "sure-and-unsure"
       ],
-      "notes": "",
+      "notes": "80% sure",
       "example": [
-        ""
+        "今週末日本語の聴解を練習しようと思っています"
       ],
       "gid": "n4-000024"
     },
@@ -317,12 +321,12 @@
       "name": "辞書形＋つもりです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "probability",
+        "sure-and-unsure"
       ],
-      "notes": "",
+      "notes": "120% sure",
       "example": [
-        ""
+        "8月に友達と一緒に大阪へ行くつもりです"
       ],
       "gid": "n4-000025"
     },
@@ -330,12 +334,12 @@
       "name": "ナイ形＋つもりです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "probability",
+        "sure-and-unsure"
       ],
-      "notes": "",
+      "notes": "120% sure",
       "example": [
-        ""
+        "今年私の母国へ帰らないつもりです"
       ],
       "gid": "n4-000026"
     },
@@ -343,12 +347,13 @@
       "name": "疑問詞＋普通形＋か、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "sure-and-unsure",
+        "疑問形"
       ],
-      "notes": "",
+      "notes": "unsure of a question",
       "example": [
-        ""
+        "どの会社がいいか、調べます",
+        "何を食べるか、まだ決めていません"
       ],
       "gid": "n4-000027"
     },
@@ -356,12 +361,13 @@
       "name": "普通形＋かどうか、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "sure-and-unsure",
+        "疑問形"
       ],
-      "notes": "",
+      "notes": "unsure of a fact",
       "example": [
-        ""
+        "母国へ帰るかどうか、まだ決めていません",
+        "ホテルを予約するかどうか、確認します"
       ],
       "gid": "n4-000028"
     },
@@ -369,12 +375,11 @@
       "name": "N＋のために、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "cause-and-effect"
       ],
-      "notes": "",
+      "notes": "purpose/reason for something",
       "example": [
-        ""
+        "就職のために、毎日プログラミングを練習しています"
       ],
       "gid": "n4-000029"
     },
@@ -382,12 +387,11 @@
       "name": "辞書形＋ために、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "cause-and-effect"
       ],
-      "notes": "",
+      "notes": "purpose/reason for something",
       "example": [
-        ""
+        "日本語を話すために、日本に来た"
       ],
       "gid": "n4-000030"
     },
@@ -395,12 +399,16 @@
       "name": "普通形＋んです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "疑問形",
+        "explaining"
       ],
-      "notes": "",
+      "notes": "adding extra information/explaining",
       "example": [
-        ""
+        "ソダさんはこの本を読んだんですか",
+        "あれはソダさんの？",
+        "それを食べているんですか",
+        "どうして日本に来たんですか",
+        "何してんだよ"
       ],
       "gid": "n4-000031"
     },
@@ -408,12 +416,17 @@
       "name": "ナイ形＋ければなりません",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "set-phrase",
+        "conditions",
+        "丁寧語",
+        "combo"
       ],
-      "notes": "",
+      "notes": "must not do",
       "example": [
-        ""
+        "金曜日までに宿題をしなければなりません",
+        "母は私に野菜を食べなければなりませんと言っていました",
+        "クラスのベルが鳴る前に来ることになっています",
+        "今冬両親の家へ行かないことになっているんです"
       ],
       "gid": "n4-000032"
     },
@@ -421,12 +434,14 @@
       "name": "普通形＋んですが、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "疑問形",
+        "explaining",
+        "sentence-connector"
       ],
-      "notes": "",
+      "notes": "giving a reason for an incoming question / topic switch",
       "example": [
-        ""
+        "今冬スキーをしたいんですが、一緒に行きませんか",
+        "卒業をしたら、日本の会社で働きたいんですが、いい会社を紹介してもらえませんか"
       ],
       "gid": "n4-000033"
     },
@@ -434,12 +449,12 @@
       "name": "普通形＋なら、＿＿＿",
       "level": "N4",
       "tags": [
-        "example 1",
+        "conditions",
         "example 2"
       ],
-      "notes": "",
+      "notes": "if it's this",
       "example": [
-        ""
+        "日本語のが話せるようになりたいなら、毎日小説を読むのがいいですよ"
       ],
       "gid": "n4-000034"
     },
@@ -447,12 +462,12 @@
       "name": "タ形＋らしいです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "probability",
+        "sure-and-unsure"
       ],
-      "notes": "",
+      "notes": "rumors / something you heard from someone",
       "example": [
-        ""
+        "彼は昨日、映画を見たらしい"
       ],
       "gid": "n4-000035"
     },
@@ -460,12 +475,13 @@
       "name": "辞書形＋といいです",
       "level": "N4",
       "tags": [
-        "example 1",
-        "example 2"
+        "conditions",
+        "recommendations"
       ],
-      "notes": "",
+      "notes": "giving advice",
       "example": [
-        ""
+        "スキーをしたいので、札幌へ行くといいです",
+        "この食べ物は辛いので、牛乳を飲むといいです"
       ],
       "gid": "n4-000036"
     },
