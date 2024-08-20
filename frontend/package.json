@@ -6,7 +6,7 @@
   "module": "index.ts",
   "type": "module",
   "files": [
-    "data.json",
+    "../shared/data.json",
     "index.ts"
   ],
   "scripts": {
@@ -21,8 +21,6 @@
   "keywords": [
     "json"
   ],
-  "author": [
-    "Tahoe Schrader"
-  ],
+  "author": "Tahoe Schrader",
   "license": "MIT"
 }
