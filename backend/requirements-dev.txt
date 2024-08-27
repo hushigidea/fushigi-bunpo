@@ -1,0 +1,7 @@
+# Dev/Deployment
+setuptools
+sphinx
+sphinx_rtd_theme
+nose2
+coverage
+pypi-publisher
