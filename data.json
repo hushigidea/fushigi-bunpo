@@ -2250,6 +2250,48 @@
         "寝る前に日記を書くことで、毎日の生活を見直しています"
       ],
       "gid": "n3-000170"
+    },
+    {
+      "name": "文＋なあ",
+      "level": "N3",
+      "tags": [
+        "seems",
+        "explaining"
+      ],
+      "notes": "letting someone know your personal thoughts; wondering out loud",
+      "example": [
+        "おなかがすいたなあ、何か食べよう",
+        "この映画、面白そうだったなあ",
+        "もしお金があったら、家を買いたいなあ"
+      ],
+      "gid": "n3-000171"
+    },
+    {
+      "name": "(辞書形|ナイ形)＋こと(が|も)ある",
+      "level": "N3",
+      "tags": [
+        "nominalizing",
+        "set-phrase"
+      ],
+      "notes": "this happens, sometimes this happens, this is possible",
+      "example": [
+        "私はいつも自分で料理を作りますが、たまに作らないことがあります",
+        "宿題をしているのはたいてい家でする。図書館ですることもあるよ。"
+      ],
+      "gid": "n3-000172"
+    },
+    {
+      "name": "N＋にとって",
+      "level": "N3",
+      "tags": [
+        "conditions",
+        "explaining"
+      ],
+      "notes": "something thats true for someone; specific opinions/facts",
+      "example": [
+        "私にとって、大切な人は妻です"
+      ],
+      "gid": "n3-000173"
     }
   ],
   "topics": [
@@ -2306,6 +2348,9 @@
     },
     {
       "name": "時間の有効な使い方"
+    },
+    {
+      "name": "将来のための時間の使い方"
     }
   ],
   "styles": [
@@ -2316,7 +2361,10 @@
       "name": "丁寧"
     },
     {
-      "name": "ビジネス"
+      "name": "ビジネス （同僚）"
+    },
+    {
+      "name": "ビジネス （後輩と先輩）"
     }
   ]
 }
