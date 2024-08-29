@@ -1,0 +1,34 @@
+{
+  "grammar": [
+    {
+      "name": "",
+      "level": "basic",
+      "tags": [],
+      "notes": "  ",
+      "example": [],
+      "gid": "basic-00000x"
+    },
+    {
+      "name": "~ね",
+      "level": "basic",
+      "tags": [
+        "sentence-ender"
+      ],
+      "notes": "isn't it; aren't they",
+      "example": [
+        "今日は暑いね"
+      ],
+      "gid": "basic-000001"
+    }
+  ],
+  "topics": [
+    {
+      "name": ""
+    }
+  ],
+  "styles": [
+    {
+      "name": ""
+    }
+  ]
+}
