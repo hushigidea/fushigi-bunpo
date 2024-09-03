@@ -19,6 +19,18 @@
         "今日は暑いね"
       ],
       "gid": "basic-000001"
+    },
+    {
+      "name": "~よ",
+      "level": "basic",
+      "tags": [
+        "sentence-ender"
+      ],
+      "notes": "you know; of course",
+      "example": [
+        "コンビニはここをまっすぐ行くとありますよ"
+      ],
+      "gid": "basic-000002"
     }
   ],
   "topics": [
