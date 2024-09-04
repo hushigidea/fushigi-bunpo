@@ -31,6 +31,20 @@
         "コンビニはここをまっすぐ行くとありますよ"
       ],
       "gid": "basic-000002"
+    },
+    {
+      "name": "~よね",
+      "level": "basic",
+      "tags": [
+        "sentence-ender"
+      ],
+      "notes": "arent you? isn't it? don't you know? for sure",
+      "example": [
+        "この曲、知ってるよね",
+        "ここのバス、よく遅れるんだよね",
+        "本当だよね"
+      ],
+      "gid": "basic-000003"
     }
   ],
   "topics": [
