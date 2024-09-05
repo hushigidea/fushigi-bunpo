@@ -2292,6 +2292,84 @@
         "私にとって、大切な人は妻です"
       ],
       "gid": "n3-000173"
+    },
+    {
+      "name": "普通形＋ことだし",
+      "level": "N3",
+      "tags": [
+        "lists",
+        "describing"
+      ],
+      "notes": "many reasons exist, but this one is good enough; since ___, ___",
+      "example": [
+        "天気もいいことだし、飲みに行かない？",
+        "せっかく日本にいることだし、富士山に登りたいなあと思っています"
+      ],
+      "gid": "n3-000174"
+    },
+    {
+      "name": "テ形＋くれない",
+      "level": "N3",
+      "tags": [
+        "favors",
+        "丁寧語"
+      ],
+      "notes": "won't you do it for me?",
+      "example": [
+        "消しゴムを忘れたので、貸してくれない？"
+      ],
+      "gid": "n3-000175"
+    },
+    {
+      "name": "普通形＋んじゃない",
+      "level": "N3",
+      "tags": [
+        "疑問形"
+      ],
+      "notes": "i think this, don't you?",
+      "example": [
+        "顔色が悪いけど、大丈夫？早く帰ったほうがいいんじゃない？",
+        "あのカバンが可愛い。でも高いんじゃない？"
+      ],
+      "gid": "n3-000176"
+    },
+    {
+      "name": "お/ご＋ます/する＋です",
+      "level": "N3",
+      "tags": [
+        "尊敬語"
+      ],
+      "notes": "creating keigo from nouns",
+      "example": [
+        "お客様、ご注文はお決まりでしょうか？",
+        "お箸をご利用でしょうか？"
+      ],
+      "gid": "n3-000177"
+    },
+    {
+      "name": "普通形＋場合",
+      "level": "N3",
+      "tags": [
+        "conditions"
+      ],
+      "notes": "describing a situation, case, circumstance",
+      "example": [
+        "火事の場合は、１１９番に電話してください"
+      ],
+      "gid": "n3-000178"
+    },
+    {
+      "name": "ナイ形＋ことには＋ナイ形",
+      "level": "N3",
+      "tags": [
+        "conditions",
+        "describing"
+      ],
+      "notes": "without this, it's impossible or difficult",
+      "example": [
+        "経験者でないことには、うまくやることはできないだろう"
+      ],
+      "gid": "n3-000179"
     }
   ],
   "topics": [
@@ -2351,6 +2429,9 @@
     },
     {
       "name": "将来のための時間の使い方"
+    },
+    {
+      "name": "職員の説明を聞き取ること"
     }
   ],
   "styles": [
