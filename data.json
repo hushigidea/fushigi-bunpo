@@ -2370,6 +2370,65 @@
         "経験者でないことには、うまくやることはできないだろう"
       ],
       "gid": "n3-000179"
+    },
+    {
+      "name": "たいことがあるんですが",
+      "level": "N3",
+      "tags": [
+        "丁寧語",
+        "疑問形",
+        "set-phrase"
+      ],
+      "notes": "polite way of asking for something, asking if it exists",
+      "example": [
+        "お願いしたいことがあるんですが",
+        "ご相談したいことがあるんですが"
+      ],
+      "gid": "n3-000180"
+    },
+    {
+      "name": "意向形＋とする",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "set-phrase",
+        "sentence-connector"
+      ],
+      "notes": "try to, attempt to",
+      "example": [
+        "寒い朝は、布団から起きようとしても、なかなか出られない"
+      ],
+      "gid": "n3-000181"
+    },
+    {
+      "name": "(みたい|よう)＋なんですが",
+      "level": "N3",
+      "tags": [
+        "丁寧語",
+        "seems",
+        "set-phrase"
+      ],
+      "notes": "politely informing something you noticed",
+      "example": [
+        "あのう、すみません、これは違うみたいなんですが",
+        "あのう、すみません、外に誰か運動していたようなんですが"
+      ],
+      "gid": "n3-000182"
+    },
+    {
+      "name": "テ形＋いただきたいんですが",
+      "level": "N3",
+      "tags": [
+        "丁寧語",
+        "receiving-and-giving",
+        "set-phrase"
+      ],
+      "notes": "polite way of asking for a favor or help",
+      "example": [
+        "先生、私の作文を直していただきたいんですが",
+        "面談の時間を変えていただきたいんですが"
+      ],
+      "gid": "n3-000183"
     }
   ],
   "topics": [
