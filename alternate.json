@@ -45,6 +45,21 @@
         "本当だよね"
       ],
       "gid": "basic-000003"
+    },
+    {
+      "name": "~か",
+      "level": "basic",
+      "tags": [
+        "sentence-ender",
+        "疑問形"
+      ],
+      "notes": "question, proposal, reaffirmation ",
+      "example": [
+        "今日は傘、いらないか",
+        "一緒に行きましょうか",
+        "ああ、ここか、私の一番好きな公園"
+      ],
+      "gid": "basic-000004"
     }
   ],
   "topics": [
