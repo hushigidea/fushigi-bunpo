@@ -60,6 +60,21 @@
         "ああ、ここか、私の一番好きな公園"
       ],
       "gid": "basic-000004"
+    },
+    {
+      "name": "の？",
+      "level": "basic",
+      "tags": [
+        "sentence-ender",
+        "疑問形",
+        "explaining"
+      ],
+      "notes": "seeking explanation or when explaining; slight tinge of surprise",
+      "example": [
+        "どこに行くの",
+        "電話変わって。私、英語、話せないの"
+      ],
+      "gid": "basic-000005"
     }
   ],
   "topics": [
