@@ -2250,6 +2250,285 @@
         "寝る前に日記を書くことで、毎日の生活を見直しています"
       ],
       "gid": "n3-000170"
+    },
+    {
+      "name": "文＋なあ",
+      "level": "N3",
+      "tags": [
+        "seems",
+        "explaining"
+      ],
+      "notes": "letting someone know your personal thoughts; wondering out loud",
+      "example": [
+        "おなかがすいたなあ、何か食べよう",
+        "この映画、面白そうだったなあ",
+        "もしお金があったら、家を買いたいなあ"
+      ],
+      "gid": "n3-000171"
+    },
+    {
+      "name": "(辞書形|ナイ形)＋こと(が|も)ある",
+      "level": "N3",
+      "tags": [
+        "nominalizing",
+        "set-phrase"
+      ],
+      "notes": "this happens, sometimes this happens, this is possible",
+      "example": [
+        "私はいつも自分で料理を作りますが、たまに作らないことがあります",
+        "宿題をしているのはたいてい家でする。図書館ですることもあるよ。"
+      ],
+      "gid": "n3-000172"
+    },
+    {
+      "name": "N＋にとって",
+      "level": "N3",
+      "tags": [
+        "conditions",
+        "explaining"
+      ],
+      "notes": "something thats true for someone; specific opinions/facts",
+      "example": [
+        "私にとって、大切な人は妻です"
+      ],
+      "gid": "n3-000173"
+    },
+    {
+      "name": "普通形＋ことだし",
+      "level": "N3",
+      "tags": [
+        "lists",
+        "describing"
+      ],
+      "notes": "many reasons exist, but this one is good enough; since ___, ___",
+      "example": [
+        "天気もいいことだし、飲みに行かない？",
+        "せっかく日本にいることだし、富士山に登りたいなあと思っています"
+      ],
+      "gid": "n3-000174"
+    },
+    {
+      "name": "テ形＋くれない",
+      "level": "N3",
+      "tags": [
+        "favors",
+        "丁寧語"
+      ],
+      "notes": "won't you do it for me?",
+      "example": [
+        "消しゴムを忘れたので、貸してくれない？"
+      ],
+      "gid": "n3-000175"
+    },
+    {
+      "name": "普通形＋んじゃない",
+      "level": "N3",
+      "tags": [
+        "疑問形"
+      ],
+      "notes": "i think this, don't you?",
+      "example": [
+        "顔色が悪いけど、大丈夫？早く帰ったほうがいいんじゃない？",
+        "あのカバンが可愛い。でも高いんじゃない？"
+      ],
+      "gid": "n3-000176"
+    },
+    {
+      "name": "お/ご＋ます/する＋です",
+      "level": "N3",
+      "tags": [
+        "尊敬語"
+      ],
+      "notes": "creating keigo from nouns",
+      "example": [
+        "お客様、ご注文はお決まりでしょうか？",
+        "お箸をご利用でしょうか？"
+      ],
+      "gid": "n3-000177"
+    },
+    {
+      "name": "普通形＋場合",
+      "level": "N3",
+      "tags": [
+        "conditions"
+      ],
+      "notes": "describing a situation, case, circumstance",
+      "example": [
+        "火事の場合は、１１９番に電話してください"
+      ],
+      "gid": "n3-000178"
+    },
+    {
+      "name": "ナイ形＋ことには＋ナイ形",
+      "level": "N3",
+      "tags": [
+        "conditions",
+        "describing"
+      ],
+      "notes": "without this, it's impossible or difficult",
+      "example": [
+        "経験者でないことには、うまくやることはできないだろう"
+      ],
+      "gid": "n3-000179"
+    },
+    {
+      "name": "たいことがあるんですが",
+      "level": "N3",
+      "tags": [
+        "丁寧語",
+        "疑問形",
+        "set-phrase"
+      ],
+      "notes": "polite way of asking for something, asking if it exists",
+      "example": [
+        "お願いしたいことがあるんですが",
+        "ご相談したいことがあるんですが"
+      ],
+      "gid": "n3-000180"
+    },
+    {
+      "name": "意向形＋とする",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "set-phrase",
+        "sentence-connector"
+      ],
+      "notes": "try to, attempt to",
+      "example": [
+        "寒い朝は、布団から起きようとしても、なかなか出られない"
+      ],
+      "gid": "n3-000181"
+    },
+    {
+      "name": "(みたい|よう)＋なんですが",
+      "level": "N3",
+      "tags": [
+        "丁寧語",
+        "seems",
+        "set-phrase"
+      ],
+      "notes": "politely informing something you noticed",
+      "example": [
+        "あのう、すみません、これは違うみたいなんですが",
+        "あのう、すみません、外に誰か運動していたようなんですが"
+      ],
+      "gid": "n3-000182"
+    },
+    {
+      "name": "テ形＋いただきたいんですが",
+      "level": "N3",
+      "tags": [
+        "丁寧語",
+        "receiving-and-giving",
+        "set-phrase"
+      ],
+      "notes": "polite way of asking for a favor or help",
+      "example": [
+        "先生、私の作文を直していただきたいんですが",
+        "面談の時間を変えていただきたいんですが"
+      ],
+      "gid": "n3-000183"
+    },
+    {
+      "name": "辞書形＋には",
+      "level": "N3",
+      "tags": [
+        "cause-and-effect",
+        "conditions"
+      ],
+      "notes": "in order to",
+      "example": [
+        "利用するには、事前の申し込みが必要なんだって",
+        "本を借りるには、図書館利用者カードが必要です"
+      ],
+      "gid": "n3-000184"
+    },
+    {
+      "name": "〜に関わらず",
+      "level": "N3",
+      "tags": [
+        "sure-and-unsure",
+        "set-phrase",
+        "sentence-connector"
+      ],
+      "notes": "regardless of",
+      "example": [
+        "サッカーの試合は天候に関わらず、行われます",
+        "お酒を飲む飲まないに関わらず、明日の飲み会の会費は全員３千円です",
+        "テストの後は、点数のいい悪いに関わらず、間違えたところをよく復習してください"
+      ],
+      "gid": "n3-000185"
+    },
+    {
+      "name": "マス形＋次第",
+      "level": "N3",
+      "tags": [
+        "time",
+        "conditions"
+      ],
+      "notes": "as soon as (involves speakers will)",
+      "example": [
+        "準備が出来次第、発表を始めましょう",
+        "仕事が終わり次第、すぐそちらに向かいます"
+      ],
+      "gid": "n3-000186"
+    },
+    {
+      "name": "(辞書形|N＋の)＋途中",
+      "level": "N3",
+      "tags": [
+        "becoming",
+        "explaining",
+        "time"
+      ],
+      "notes": "in the middle of; on the way",
+      "example": [
+        "学校から渋谷駅向かう途中で、急に雨が降ったきた",
+        "電車で会社に行く途中で、急に気分悪くなった"
+      ],
+      "gid": "n3-000187"
+    },
+    {
+      "name": "N＋を＋N＋として",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "set-phrase"
+      ],
+      "notes": "as a ___; ___ being used as a ___",
+      "example": [
+        "要らなくなったプリントを紙の飛行機として使っています",
+        "この試験では７０点以上を合格とする"
+      ],
+      "gid": "n3-000188"
+    },
+    {
+      "name": "N＋を背にして",
+      "level": "N3",
+      "tags": [
+        "set-phrase",
+        "describing",
+        "location"
+      ],
+      "notes": "with your back facing (used for directions)",
+      "example": [
+        "じゃ、西口を背にして、本屋と花屋の間の道をまっすぐ行くと、右側にありますよ"
+      ],
+      "gid": "n3-000189"
+    },
+    {
+      "name": "N＋に沿って",
+      "level": "N3",
+      "tags": [
+        "location",
+        "describing"
+      ],
+      "notes": "along; in accordance with",
+      "example": [
+        "この道に沿ってずっと行くと、私の家がある"
+      ],
+      "gid": "n3-000190"
     }
   ],
   "topics": [
@@ -2306,6 +2585,18 @@
     },
     {
       "name": "時間の有効な使い方"
+    },
+    {
+      "name": "将来のための時間の使い方"
+    },
+    {
+      "name": "職員の説明を聞き取ること"
+    },
+    {
+      "name": "地域にある施設"
+    },
+    {
+      "name": "困っていることを管理人さんに説明"
     }
   ],
   "styles": [
@@ -2316,7 +2607,10 @@
       "name": "丁寧"
     },
     {
-      "name": "ビジネス"
+      "name": "ビジネス （同僚）"
+    },
+    {
+      "name": "ビジネス （後輩と先輩）"
     }
   ]
 }
