@@ -2429,6 +2429,106 @@
         "面談の時間を変えていただきたいんですが"
       ],
       "gid": "n3-000183"
+    },
+    {
+      "name": "辞書形＋には",
+      "level": "N3",
+      "tags": [
+        "cause-and-effect",
+        "conditions"
+      ],
+      "notes": "in order to",
+      "example": [
+        "利用するには、事前の申し込みが必要なんだって",
+        "本を借りるには、図書館利用者カードが必要です"
+      ],
+      "gid": "n3-000184"
+    },
+    {
+      "name": "〜に関わらず",
+      "level": "N3",
+      "tags": [
+        "sure-and-unsure",
+        "set-phrase",
+        "sentence-connector"
+      ],
+      "notes": "regardless of",
+      "example": [
+        "サッカーの試合は天候に関わらず、行われます",
+        "お酒を飲む飲まないに関わらず、明日の飲み会の会費は全員３千円です",
+        "テストの後は、点数のいい悪いに関わらず、間違えたところをよく復習してください"
+      ],
+      "gid": "n3-000185"
+    },
+    {
+      "name": "マス形＋次第",
+      "level": "N3",
+      "tags": [
+        "time",
+        "conditions"
+      ],
+      "notes": "as soon as (involves speakers will)",
+      "example": [
+        "準備が出来次第、発表を始めましょう",
+        "仕事が終わり次第、すぐそちらに向かいます"
+      ],
+      "gid": "n3-000186"
+    },
+    {
+      "name": "(辞書形|N＋の)＋途中",
+      "level": "N3",
+      "tags": [
+        "becoming",
+        "explaining",
+        "time"
+      ],
+      "notes": "in the middle of; on the way",
+      "example": [
+        "学校から渋谷駅向かう途中で、急に雨が降ったきた",
+        "電車で会社に行く途中で、急に気分悪くなった"
+      ],
+      "gid": "n3-000187"
+    },
+    {
+      "name": "N＋を＋N＋として",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "set-phrase"
+      ],
+      "notes": "as a ___; ___ being used as a ___",
+      "example": [
+        "要らなくなったプリントを紙の飛行機として使っています",
+        "この試験では７０点以上を合格とする"
+      ],
+      "gid": "n3-000188"
+    },
+    {
+      "name": "N＋を背にして",
+      "level": "N3",
+      "tags": [
+        "set-phrase",
+        "describing",
+        "location"
+      ],
+      "notes": "with your back facing (used for directions)",
+      "example": [
+        "じゃ、西口を背にして、本屋と花屋の間の道をまっすぐ行くと、右側にありますよ"
+      ],
+      "gid": "n3-000189"
+    },
+    {
+      "name": "N＋に沿って",
+      "level": "N3",
+      "tags": [
+        "location",
+        "describing"
+      ],
+      "notes": "along; in accordance with",
+      "example": [
+        "この道に沿ってずっと行くと、私の家がある"
+      ],
+      "gid": "n3-000190"
     }
   ],
   "topics": [
@@ -2491,6 +2591,12 @@
     },
     {
       "name": "職員の説明を聞き取ること"
+    },
+    {
+      "name": "地域にある施設"
+    },
+    {
+      "name": "困っていることを管理人さんに説明"
     }
   ],
   "styles": [
