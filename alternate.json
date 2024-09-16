@@ -75,6 +75,21 @@
         "電話変わって。私、英語、話せないの"
       ],
       "gid": "basic-000005"
+    },
+    {
+      "name": "んだ・んです",
+      "level": "basic",
+      "tags": [
+        "sentence-ender",
+        "explaining"
+      ],
+      "notes": "it's because; explaining circumstances",
+      "example": [
+        "ごめん、ちょっと頭が痛いんです",
+        "ハワイに行ったんですか？",
+        "そうなんだ？"
+      ],
+      "gid": "basic-000006"
     }
   ],
   "topics": [
