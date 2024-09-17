@@ -90,6 +90,19 @@
         "そうなんだ？"
       ],
       "gid": "basic-000006"
+    },
+    {
+      "name": "~の",
+      "level": "basic",
+      "tags": [
+        "nominal-creating"
+      ],
+      "notes": "turns a phrase into a noun",
+      "example": [
+        "青木さんが怒っているのを見たことがないです",
+        "コーヒーは、あったかいの、冷たいの、どっちがいいですか"
+      ],
+      "gid": "basic-000007"
     }
   ],
   "topics": [
