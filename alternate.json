@@ -103,6 +103,21 @@
         "コーヒーは、あったかいの、冷たいの、どっちがいいですか"
       ],
       "gid": "basic-000007"
+    },
+    {
+      "name": "って",
+      "level": "basic",
+      "tags": [
+        "explaining",
+        "quotations"
+      ],
+      "notes": "making quotes and emphasizing a noun",
+      "example": [
+        "毎日国に帰りたいって思ってました",
+        "ここのパンはすごく美味しいって評判なんです",
+        "今日は休んだほうがいいって"
+      ],
+      "gid": "basic-000008"
     }
   ],
   "topics": [
