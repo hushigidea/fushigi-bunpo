@@ -118,6 +118,19 @@
         "今日は休んだほうがいいって"
       ],
       "gid": "basic-000008"
+    },
+    {
+      "name": "てる",
+      "level": "basic",
+      "tags": [
+        "action"
+      ],
+      "notes": "continuous state of being; good for questions/explanations; is doing",
+      "example": [
+        "何見てるの",
+        "パンはいつもどこで買ってるの"
+      ],
+      "gid": "basic-000009"
     }
   ],
   "topics": [
