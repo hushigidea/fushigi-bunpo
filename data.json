@@ -2529,6 +2529,154 @@
         "この道に沿ってずっと行くと、私の家がある"
       ],
       "gid": "n3-000190"
+    },
+    {
+      "name": "N＋によって",
+      "level": "N3",
+      "tags": [
+        "explaining",
+        "cause-and-effect"
+      ],
+      "notes": "depending on or according to",
+      "example": [
+        "雷雨の影響によって、電車が遅れています"
+      ],
+      "gid": "n3-000191"
+    },
+    {
+      "name": "(普通形|N＋の)＋恐れがある",
+      "level": "N3",
+      "tags": [
+        "set-phrase"
+      ],
+      "notes": "there is a risk that...",
+      "example": [
+        "今夜から明日にかけて東日本で大雪の恐れがある",
+        "今週末、関東地方で激しい雨が降る恐れがあります。ご注意ください。"
+      ],
+      "gid": "n3-000192"
+    },
+    {
+      "name": "マス形＋そうにないんですが",
+      "level": "N3",
+      "tags": [
+        "set-phrase"
+      ],
+      "notes": "its unlikely that...",
+      "example": [
+        "店長、電車が止まっているので、アルバイトの時間に合いそうにないんですが"
+      ],
+      "gid": "n3-000193"
+    },
+    {
+      "name": "文＋とか",
+      "level": "N3",
+      "tags": [
+        "lists",
+        "seems"
+      ],
+      "notes": "heard this or something like that",
+      "example": [
+        "ええ、よくわからないんですが、ドアが故障したとかで、動かないみたいですよ"
+      ],
+      "gid": "n3-000194"
+    },
+    {
+      "name": "テ形＋しまったようなんです",
+      "level": "N3",
+      "tags": [
+        "explaining",
+        "seems",
+        "set-phrase"
+      ],
+      "notes": "it seems this may have happened",
+      "example": [
+        "転んだ時は足をひねってしまったようなんですが"
+      ],
+      "gid": "n3-000195"
+    },
+    {
+      "name": "(辞書形|ている|タ形|イA)＋ところ(に|を)",
+      "level": "N3",
+      "tags": [
+        "explaining",
+        "becoming",
+        "time",
+        "location"
+      ],
+      "notes": "time/place where something was discovered (short time); を implies another person",
+      "example": [
+        "家を出ようとしたところに、雨が降ってきた",
+        "昨日、階段で転んだところを人に見られて、とても恥ずかしかった"
+      ],
+      "gid": "n3-000196"
+    },
+    {
+      "name": "(辞書形|N)＋につれて",
+      "level": "N3",
+      "tags": [
+        "explaining"
+      ],
+      "notes": "as, along with ___",
+      "example": [
+        "台風が近づくにつれて、雨が強くなってきた",
+        "暑くなるにつれて、アイスの売り上げが伸びてきた"
+      ],
+      "gid": "n3-000197"
+    },
+    {
+      "name": "(辞書形|ナイ形)＋ものだ",
+      "level": "N3",
+      "tags": [
+        "explaining"
+      ],
+      "notes": "should be; this type of thing",
+      "example": [
+        "人との約束に遅れそうな時は、伝えるものだ",
+        "たくさんの人の前で話すのは、誰でも心配するものだよ"
+      ],
+      "gid": "n3-000198"
+    },
+    {
+      "name": "(辞書形|タ形|N＋の)＋通りに",
+      "level": "N3",
+      "tags": [
+        "explaining"
+      ],
+      "notes": "in line with; exactly/precisely this",
+      "example": [
+        "先生の指示の通りに避難してください",
+        "私の思った通り、事がうまく続いている",
+        "期待どおり、Aチームが優秀した"
+      ],
+      "gid": "n3-000199"
+    },
+    {
+      "name": "(辞書形|タ形)＋際に",
+      "level": "N3",
+      "tags": [
+        "explaining",
+        "time"
+      ],
+      "notes": "when this happens, but less regular than using 時",
+      "example": [
+        "電車を降りる際は、お忘れ物のないようご注意ください"
+      ],
+      "gid": "n3-000200"
+    },
+    {
+      "name": "(辞書形|ナイ形|N＋の)＋こと",
+      "level": "N3",
+      "tags": [
+        "explaining",
+        "command"
+      ],
+      "notes": "this is specifically a command to do something",
+      "example": [
+        "避難の際は、エレベーターを使用しないこと",
+        "試験の時は辞書を使わないこと"
+      ],
+      "gid": "n3-000201"
     }
   ],
   "topics": [
@@ -2597,6 +2745,15 @@
     },
     {
       "name": "困っていることを管理人さんに説明"
+    },
+    {
+      "name": "けがをした時の状況と今の状態を説明しる"
+    },
+    {
+      "name": "店長に電話をして、状況を話"
+    },
+    {
+      "name": "事故や災害にあったこと"
     }
   ],
   "styles": [
