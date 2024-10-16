@@ -2677,6 +2677,86 @@
         "試験の時は辞書を使わないこと"
       ],
       "gid": "n3-000201"
+    },
+    {
+      "name": "(タ形|ナイ形|イAい|ナAな|N＋の)＋まま",
+      "level": "N3",
+      "tags": [
+        "conditions",
+        "describing"
+      ],
+      "notes": "left as is",
+      "example": [
+        "新幹線が混んでいて、東京から大阪までずっと立ったままだ",
+        "父は時々、家の鍵をかけないまま出かける"
+      ],
+      "gid": "n3-000202"
+    },
+    {
+      "name": "N＋だらけ",
+      "level": "N3",
+      "tags": [
+        "describing"
+      ],
+      "notes": "to be covered in something; slightly negative feeling",
+      "example": [
+        "どうしたの？その血だらけの足？大丈夫？",
+        "何ですか？この部屋は、服だらけじゃない！！！"
+      ],
+      "gid": "n3-000203"
+    },
+    {
+      "name": "N＋(に囲まれている|に囲まれた＋N)",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "location"
+      ],
+      "notes": "to be completely enclosed by; surrounded by",
+      "example": [
+        "日本は海に囲まれた国です",
+        "この村は山林に囲まれています"
+      ],
+      "gid": "n3-000204"
+    },
+    {
+      "name": "N＋をしめる",
+      "level": "N3",
+      "tags": [
+        "describing"
+      ],
+      "notes": "made up of; consists of; is covered by",
+      "example": [
+        "海が地球全体の７０％を占めている",
+        "睡眠が１日の約３分の１を占めている"
+      ],
+      "gid": "n3-000205"
+    },
+    {
+      "name": "(マス形|N)＋がち",
+      "level": "N3",
+      "tags": [
+        "describing"
+      ],
+      "notes": "mostly; tending towards but in a negative way",
+      "example": [
+        "彼は最近遅刻しがちで、出席率が下がってきています",
+        "このような間違いは初心者にありがちなことだ"
+      ],
+      "gid": "n3-000206"
+    },
+    {
+      "name": "N＋に比べて",
+      "level": "N3",
+      "tags": [
+        "comparisons"
+      ],
+      "notes": "comparisons; use と instead for direct opposites",
+      "example": [
+        "東京に比べて、寒くて乾燥した場所だね",
+        "田舎は都会に比べて、不便です"
+      ],
+      "gid": "n3-000207"
     }
   ],
   "topics": [
@@ -2747,13 +2827,16 @@
       "name": "困っていることを管理人さんに説明"
     },
     {
-      "name": "けがをした時の状況と今の状態を説明しる"
+      "name": "けがをした時の状況と今の状態を説明する"
     },
     {
       "name": "店長に電話をして、状況を話"
     },
     {
       "name": "事故や災害にあったこと"
+    },
+    {
+      "name": "日本の地理や街の様子を説明する"
     }
   ],
   "styles": [
