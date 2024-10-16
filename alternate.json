@@ -131,6 +131,20 @@
         "パンはいつもどこで買ってるの"
       ],
       "gid": "basic-000009"
+    },
+    {
+      "name": "といて",
+      "level": "basic",
+      "tags": [
+        "action",
+        "time"
+      ],
+      "notes": "simplification of 〜ておく; to do things ahead of time; leave as as",
+      "example": [
+        "読んだ本は元の場所に戻しといてね",
+        "その窓は、そのまま開けといてください"
+      ],
+      "gid": "basic-000010"
     }
   ],
   "topics": [
