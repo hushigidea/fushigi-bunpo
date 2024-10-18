@@ -2757,6 +2757,74 @@
         "田舎は都会に比べて、不便です"
       ],
       "gid": "n3-000207"
+    },
+    {
+      "name": "N＋に備えて",
+      "level": "N3",
+      "tags": [
+        "time",
+        "describing"
+      ],
+      "notes": "in preparation of",
+      "example": [
+        "地震に備えて、非常持ち出し袋を用意しようと思います"
+      ],
+      "gid": "n3-000208"
+    },
+    {
+      "name": "N＋に代わって",
+      "level": "N3",
+      "tags": [
+        "location",
+        "describing",
+        "comparisons"
+      ],
+      "notes": "in place of; in substitute of",
+      "example": [
+        "紙に代わって、タブレットが使われるようになった"
+      ],
+      "gid": "n3-000209"
+    },
+    {
+      "name": "N＋のような",
+      "level": "N3",
+      "tags": [
+        "comparisons",
+        "describing"
+      ],
+      "notes": "this type of; is like a",
+      "example": [
+        "私はアイスのような甘い食べ物が好きです",
+        "Monster Energyのような飲み物がいいんじゃない"
+      ],
+      "gid": "n3-000210"
+    },
+    {
+      "name": "N＋として",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "comparisons"
+      ],
+      "notes": "as a ___",
+      "example": [
+        "Aさんは１０年前に留学生として日本に来て、日本語を勉強した"
+      ],
+      "gid": "n3-000211"
+    },
+    {
+      "name": "(辞書形|ナイ形|A|N)＋に限る",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "conditions"
+      ],
+      "notes": "this specific point marks something as the BEST; limited to ___",
+      "example": [
+        "ストレスが溜まった時には、休憩するに限ります",
+        "旅行するなら、冬に限るよ"
+      ],
+      "gid": "n3-000212"
     }
   ],
   "topics": [
@@ -2837,6 +2905,9 @@
     },
     {
       "name": "日本の地理や街の様子を説明する"
+    },
+    {
+      "name": "気候のことを考えて作られた建物の説明"
     }
   ],
   "styles": [
