@@ -123,7 +123,8 @@
       "name": "てる",
       "level": "basic",
       "tags": [
-        "action"
+        "action",
+        "abbreviations"
       ],
       "notes": "continuous state of being; good for questions/explanations; is doing",
       "example": [
@@ -137,7 +138,8 @@
       "level": "basic",
       "tags": [
         "action",
-        "time"
+        "time",
+        "abbreviations"
       ],
       "notes": "simplification of 〜ておく; to do things ahead of time; leave as as",
       "example": [
@@ -145,6 +147,20 @@
         "その窓は、そのまま開けといてください"
       ],
       "gid": "basic-000010"
+    },
+    {
+      "name": "",
+      "level": "basic",
+      "tags": [
+        "abbreviations",
+        "actions"
+      ],
+      "notes": "simplification of ~てしまう; completion; failures and accidental results ",
+      "example": [
+        "この本、１日で読んじゃったよ",
+        "今朝寝坊して遅刻しちゃったよ"
+      ],
+      "gid": "basic-000011"
     }
   ],
   "topics": [
