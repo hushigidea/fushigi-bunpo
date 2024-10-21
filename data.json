@@ -2825,6 +2825,64 @@
         "旅行するなら、冬に限るよ"
       ],
       "gid": "n3-000212"
+    },
+    {
+      "name": "N＋を中心に(して)",
+      "level": "N3",
+      "tags": [
+        "describing"
+      ],
+      "notes": "mainly; focused on; centered on",
+      "example": [
+        "このチームはタホさんを中心によくまとまっている",
+        "健康のために野菜を中心とした食事をするようにといつも母に言われている"
+      ],
+      "gid": "n3-000213"
+    },
+    {
+      "name": "N＋をはじめ",
+      "level": "N3",
+      "tags": [
+        "lists",
+        "describing",
+        "sentence-connector"
+      ],
+      "notes": "starting with; mostly as an example rather than literally time based",
+      "example": [
+        "アメリカにはバーベキューをはじめ、美味しい食べ物がたくさんあります",
+        "冬はスキーを始め、楽しいスポーツがいろいろある"
+      ],
+      "gid": "n3-000214"
+    },
+    {
+      "name": "N＋を通して",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "time",
+        "sentence-connector"
+      ],
+      "notes": "throughout (time); via (tool)",
+      "example": [
+        "この地方は、一年を通じて、暑いです",
+        "この町では、四季を通して、さまざまな果物が食べられる"
+      ],
+      "gid": "n3-000215"
+    },
+    {
+      "name": "普通形＋ことから",
+      "level": "N3",
+      "tags": [
+        "describing",
+        "sentence-connector",
+        "cause-and-effect",
+        "nominalizing"
+      ],
+      "notes": "because of...",
+      "example": [
+        "この辺は富士山がよく見えることから、富士見町と呼ばれるようになった"
+      ],
+      "gid": "n3-000216"
     }
   ],
   "topics": [
@@ -2908,6 +2966,9 @@
     },
     {
       "name": "気候のことを考えて作られた建物の説明"
+    },
+    {
+      "name": "町の特徴と歴史について"
     }
   ],
   "styles": [
