@@ -161,6 +161,21 @@
         "今朝寝坊して遅刻しちゃったよ"
       ],
       "gid": "basic-000011"
+    },
+    {
+      "name": "(する|している|した)＋ところ",
+      "level": "basic",
+      "tags": [
+        "explaining",
+        "time"
+      ],
+      "notes": "just before, just during, just after; expressing a certain timed instance of something",
+      "example": [
+        "みんなでお昼を食べに行くところなんだけど、一緒に行かない？",
+        "ちょっと待ってよ。今考えてるところなんだから。",
+        "私も今来たところ"
+      ],
+      "gid": "basic-000012"
     }
   ],
   "topics": [
