@@ -176,6 +176,20 @@
         "私も今来たところ"
       ],
       "gid": "basic-000012"
+    },
+    {
+      "name": "タ形＋ばかり",
+      "level": "basic",
+      "tags": [
+        "explaining",
+        "time"
+      ],
+      "notes": "just; huge nuance of shortness of time or limitation",
+      "example": [
+        "今朝空港に着いたばかりで、まだどこにも行ってないんです",
+        "買ったばかりで、実はまだよくわかってないんです"
+      ],
+      "gid": "basic-000013"
     }
   ],
   "topics": [
