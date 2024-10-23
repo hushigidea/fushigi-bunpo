@@ -190,6 +190,21 @@
         "買ったばかりで、実はまだよくわかってないんです"
       ],
       "gid": "basic-000013"
+    },
+    {
+      "name": "たら, だったら",
+      "level": "basic",
+      "tags": [
+        "becoming",
+        "suppositional"
+      ],
+      "notes": "once this happens, how about ___",
+      "example": [
+        "ボーナスもらったら何買う？",
+        "こういう人が友達だったらいいな",
+        "試験を受けるんだったら、早めに準備した方がいいよ"
+      ],
+      "gid": "basic-000014"
     }
   ],
   "topics": [
